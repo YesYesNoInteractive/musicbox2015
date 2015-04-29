@@ -148,10 +148,7 @@
 
             //read from XML file on desktop?!?
 
-            System.Xml.XmlDocument doc = new System.Xml.XmlDocument();
-            doc.Load("c:\\Users\\YesYes\\Desktop\\ipaddress.xml");
-            System.Xml.XmlNode node = doc.DocumentElement.SelectSingleNode("/ipaddress");
-            string ipAddress = node.InnerText;
+            string ipAddress = "127.0.0.1";
             string port = "12345";
 
 
