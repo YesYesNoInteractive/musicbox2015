@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SolutionFile>
+		<Header>
+			<Date>2015-01-29</Date>
+			<Time>16:53:24.3479942-08:00</Time>
+			<Version>1</Version>
+			<Type>Solution</Type>
+			<ID>4fb437c4-2a43-4680-a2a5-66947ab3a6b7</ID>
+		</Header>
+		<Solution_Data>
+			<Files>
+				<Name />
+				<Content>
+					<Items>
+						<File>punch_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>punch_Left.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>punch_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>punch_Right.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>punchProgress_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>punchProgress_Left.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>punchProgress_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>punchProgress_Right.a.vgbproj</File>
+					</Items>
+				</Content>
+			</Files>
+		</Solution_Data>
+		<UI_State />
+		<Attributes />
+	</SolutionFile>
+</GestureBuilderFile>

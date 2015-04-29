@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SolutionFile>
+		<Header>
+			<Date>2015-02-02</Date>
+			<Time>18:01:26.5540688-08:00</Time>
+			<Version>1</Version>
+			<Type>Solution</Type>
+			<ID>1d11da4f-653b-4791-9d2d-20329923668b</ID>
+		</Header>
+		<Solution_Data>
+			<Files>
+				<Name />
+				<Content>
+					<Items>
+						<File>kick_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>kick_Left.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>kick_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>kick_Right.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>punch_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>punch_Left.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>../../../Documents/Kinect Studio/Repository/punch_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>../../../Documents/Kinect Studio/Repository/punch_Right.a.vgbproj</File>
+					</Items>
+				</Content>
+			</Files>
+		</Solution_Data>
+		<UI_State />
+		<Attributes />
+	</SolutionFile>
+</GestureBuilderFile>
